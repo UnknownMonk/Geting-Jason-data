@@ -1,6 +1,18 @@
 
+body {
+  padding: 1rem;
+  border:10px solid darkgray;
+  width: 50%;
+  margin: 0 auto;
+  
+}
+
+
 header {
   text-align: center;
+  background-image: linear-gradient(45deg, blue, red);
+  color: white;
+  padding: 10rem;
 }
 
 h1 {
@@ -24,4 +36,5 @@ button {
 
 p {
   text-align: center;
+  
 }
